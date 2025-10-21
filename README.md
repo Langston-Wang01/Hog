@@ -1,5 +1,5 @@
 # Hog
-Hog is a dice game simulator that models two players competing to reach a target score using various strategic approaches. However, there are also three specific rules that players must abide by: Sow Sad, Boar Brawl, Sus Fuss.
+Hog is a dice game simulator that models two players competing to reach a target score using various strategic approaches. However, there are also three specific rules that players must abide by: Sow Sad, Boar Brawl, Sus Fuss. This project used mainly higher-order functions, control logic, and iteration. 
 
 This project is a part of UC Berkeley's CS61A: Structure and Interpretation of Computer Programs course.
 
